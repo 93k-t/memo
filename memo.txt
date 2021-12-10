@@ -1,0 +1,13 @@
+Cloud9 サーバ起動コマンド
+
+php -S 127.0.0.1:8080 -c php.ini
+
+サーバ起動
+sudo service mysql start
+データベースログイン
+sudo mysql -u root
+
+Git設定
+name = 93k-t pass = Ka13203190 email = scullight@gmail.com
+個人アクセストークン名　93k-t
+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
